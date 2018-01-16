@@ -1,5 +1,6 @@
 # Android
-Android Projects from Udacity Android Basics course 
+Android Projects from Udacity Android Basics course
+
     Android Basics: User Interface
       Learn how to transform hand-drawn app designs into layouts using the XML markup language, and use Views and ViewGroups to display images and text.
     project: Build a Single Screen App
