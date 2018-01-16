@@ -12,6 +12,6 @@ Android Projects from Udacity Android Basics course
     project: Score Keeper App project: Quiz App
     
     Android Basics: Multi-Screen Apps
-    Learn how to show multiple screens, and add audio and images to an app. Learn how Android handles touch events, 
-    and make visual changes to add polish to your app. currenty learning this course
+    Learn how to show multiple screens, and add audio and images to an app. Learn how Android handles touch
+    events, and make visual changes to add polish to your app. currenty learning this course
     project: Musical Structure App project: Tour Guide App 
