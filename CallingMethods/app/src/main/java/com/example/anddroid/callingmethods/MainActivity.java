@@ -13,12 +13,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         TextView tv=new TextView(this);
-        tv.setText("Mostafa Mohamed ");
-        tv.setTextColor(getResources().getColor(mostafaColor));
+        tv.setText("Mostafa Mohamed  Abdelhameed");
         tv.setTextColor(Color.parseColor("#FF00FF"));
-        tv.setTextColor(Color.RED);
-        tv.setTextSize(77);
-        //    setContentView(tv);
+        tv.setTextColor(Color.YELLOW);
+        tv.setTextSize(55);
+        tv.setTextColor(getResources().getColor(mostafaColor));
+        tv.setBackgroundColor(Color.CYAN);
+
+        setContentView(tv);
         //setContentView(R.layout.activity_main);
     }
 }
