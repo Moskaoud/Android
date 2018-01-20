@@ -82,6 +82,7 @@ public class MainActivity extends AppCompatActivity {
         String priceMessage = createOrderSummary(price, hasWhippedCream, hasChocolate, name);
         displayMessage(priceMessage);
 
+        // implicit intent for sending mail
         Intent intent = new Intent(Intent.ACTION_SENDTO);
         intent.setData(Uri.parse("mailto:")); // only email apps should handle this
         intent.putExtra(Intent.EXTRA_SUBJECT, getString(R.string.order_summary_email_subject,name));// Set subject name of app
