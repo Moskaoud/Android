@@ -7,10 +7,10 @@
     <string name="name">الأسم</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="toppings">إضافات</string>
+    <string name="toppings"> إضافات </string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="whipped_cream">كريمه</string>
+    <string name="whipped_cream"> كريمه </string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
     <string name="chocolate">شوكولاتة</string>
@@ -41,7 +41,7 @@
       Name for the order summary. It will be shown in the format of "Name: Amy" where Amy is the
       user's name. [CHAR LIMIT=NONE]
     -->
-    <string name="order_summary_name">: الأسم<xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_name">:الأسم<xliff:g id="name" example="Amy">%s</xliff:g></string>
 
     <!--
       Whipped cream topping for the order summary. It will be shown in the format of

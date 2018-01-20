@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
     public void eatCookie(View view) {
 
         // toDo   : Find a reference to the ImageView in the layout. Change the image.
-       // ImageView img= (ImageView) findViewById(R.id.android_cookie_image_view);
-        //img.setImageResource(R.drawable.after_cookie);
+        ImageView img= (ImageView) findViewById(R.id.android_cookie_image_view);
+        img.setImageResource(R.drawable.after_cookie);
 
         // TODO: Find a reference to the TextView in the layout. Change the text.
         TextView tv= (TextView) findViewById(R.id.status_text_view);
